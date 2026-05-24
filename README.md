@@ -57,6 +57,8 @@ Desarrollador Full-Stack enfocado en backend moderno, APIs escalables, automatiz
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=320&text=Estadísticas GitHub&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=60A5FA&color=0:020617,35:0F172A,75:1E3A8A,100:2563EB"/>
 
+---
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piterlabs&theme=transparent&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA"/>
