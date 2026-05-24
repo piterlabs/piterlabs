@@ -48,30 +48,8 @@ Desarrollador Full-Stack enfocado en backend moderno, APIs escalables, automatiz
 
 <br><br>
 
-### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,postman,bash,pnpm&theme=dark" />
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=320&text=Estadísticas GitHub&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=60A5FA&color=0:020617,35:0F172A,75:1E3A8A,100:2563EB"/>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piterlabs&theme=transparent&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA"/>
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piterlabs&custom_title=Actividad%20de%20Contribuciones&bg_color=0D1117&color=60A5FA&line=2563EB&point=3B82F6&area=true&hide_border=true"/>
+### ☁️ DevOps & Herramientas
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,postman,bash,pnpm,vscode&theme=dark" />
 
 </div>
 
