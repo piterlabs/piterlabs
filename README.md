@@ -55,7 +55,7 @@ Desarrollador Full-Stack enfocado en backend moderno, APIs escalables, automatiz
 
 ---
 
-# <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Estadísticas GitHub&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=60A5FA&color=0:020617,35:0F172A,75:1E3A8A,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Estadísticas GitHub&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=60A5FA&color=0:020617,35:0F172A,75:1E3A8A,100:2563EB"/>
 
 <div align="center">
 
